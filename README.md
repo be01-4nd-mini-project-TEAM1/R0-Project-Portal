@@ -9,7 +9,13 @@
 
 ----
 ### TEAM - 1
-- WBS :
+- WBS : https://docs.google.com/spreadsheets/d/1qEjl9ZmYK0VKG3ePlmyBdCOfm5YewigOBiDhvfU4JfM/edit?hl=ko#gid=0
+ <br>
+ 
+  ![스크린샷 2024-02-28 115645](https://github.com/be01-4nd-mini-project-TEAM1/R0-Project-Portal/assets/148875683/4ba1fbbd-04d6-4d79-a6a7-d163ff384847)
+  
+<br>
+
 - member :🐻‍❄️ 최원규, 🐻 전승민, 🐰 윤채영, 🐨 우지영, 🐯 박재린 
 - code Repo : https://github.com/be01-4nd-mini-project-TEAM1/R1-devops-project
   
